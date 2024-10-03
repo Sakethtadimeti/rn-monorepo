@@ -1,6 +1,6 @@
 {
-  "name": "rn-ui",
-  "version": "0.1.0",
+  "name": "rn-ui-trail",
+  "version": "0.3.0",
   "description": "UI components & Utilities for react native",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
